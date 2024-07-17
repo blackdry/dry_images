@@ -1,4 +1,4 @@
 nginx
 mysql:8.0
 mariadb
-centos7
+centos:centos7
