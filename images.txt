@@ -1,5 +1,4 @@
 nginx
 mysql:8.0
 mariadb
-mariadb-server
 centos7
