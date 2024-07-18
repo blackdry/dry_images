@@ -2,3 +2,5 @@ nginx
 mysql:8.0
 mariadb
 centos:centos7
+python:3.12.0
+django:5.0.7
