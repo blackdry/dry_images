@@ -6,4 +6,3 @@ mariadb:10.11.8
 mariadb:5.5.68
 centos:centos7
 python:3.12.0
-node:latest
