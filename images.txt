@@ -7,3 +7,5 @@ mariadb:5.5.68
 centos:centos7
 python:3.12.0
 django:5.0.7
+node:22.6.0
+node:latest
